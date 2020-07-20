@@ -13,7 +13,6 @@ _A demonstration of how to play Mad Libs in a .NET MVC application that can pass
 | Spec | Input | Output |
 | :--- | :---: | ---: |
 
-
 ## Setup/Installation Requirements
 
 Software Requirements
@@ -22,7 +21,7 @@ Software Requirements
 
 Acquire The Repo:
 1. Click the 'Clone or Download Button
-2. Alternately, Clone via Bash/GitBash: `git clone {repo}`
+2. Alternately, Clone via Bash/GitBash: `git clone https://github.com/Sudolphus/MadLibs.Solution.git`
 
 Editting the Code Base:
 1. Open the project in your code editor; with Bash, this is done by navigating to the project directory, then `code .`
