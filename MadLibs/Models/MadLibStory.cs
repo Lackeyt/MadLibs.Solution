@@ -9,5 +9,14 @@ namespace MadLibs.Models
     public string Verb {get; set;}
     public string Noun {get; set;}
     
+    public MadLib(string person1, string person2, string animal, string exclamation, string verb, string noun)
+    {
+      Person1 = person1;
+      Person2 = person2;
+      Animal = animal;
+      Exclamation = exclamation;
+      Verb = verb;
+      Noun = noun;
+    }
   }
 }

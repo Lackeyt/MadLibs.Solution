@@ -25,6 +25,7 @@ namespace MadLibs
 
     public void Configure(IApplicationBuilder app)
     {
+      app.UseDeveloperExceptionPage();
       app.UseMvc(routes =>
       {
         routes.MapRoute(
@@ -36,8 +37,6 @@ namespace MadLibs
       {
         await context.Response.WriteAsync("Hello World!");
       });
-
-      app.UseDeveloperExceptionPage();
     }
   }
 }

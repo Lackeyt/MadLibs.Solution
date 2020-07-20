@@ -4,7 +4,7 @@
     <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css'>
   </head>
   <body>
-    <form id="formOne" action="/story">
+    <form id="formOne" action="/story" method="post">
       <div class="form-group">
         <label for="person1">A name</label>
         <input id="person1" name="person1" class="form-control" type="text">
@@ -30,7 +30,7 @@
         <input id="noun" name="noun" class="form-control" type="text">
       </div>
 
-      <button type="submit" class="btn" onclick=location.href("/story")>Show me the story!</button>
+      <button type="submit" class="btn" onclick='location.href("/story")'>Show me the story!</button>
     </form>
   </body>
 </html>
