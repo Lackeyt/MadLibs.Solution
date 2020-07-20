@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Mad Libs_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A Game Of Mad Libs, 7.20.20_
 
-#### By _**Micheal Hansen**_
+#### By _**Micheal Hansen, Peter Grimm & Tyson Lackey**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_A demonstration of how to play Mad Libs in a .NET MVC application that can pass data between forms._
 
 ## Specifications
 
@@ -34,7 +34,7 @@ Running the program:
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_None Currently Known_
 
 ## Support and contact details
 
@@ -47,7 +47,7 @@ _Please reach out through my GitHub account._
 
 ### License
 
-Copyright (c) 2020 **_Micheal Hansen_**
+Copyright (c) 2020 **_Micheal Hansen, Peter Grimm, & Tyson Lackey_**
 
 *Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
